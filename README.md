@@ -2,7 +2,7 @@
 
 Search movies & series, browse catalogs and play streams from your Stremio setup — without leaving Raycast.
 
-![](metadata/search-stremio-1.png)
+![](metadata/brwose-stremio-1.png)
 
 ## Features
 
@@ -15,7 +15,7 @@ Search movies & series, browse catalogs and play streams from your Stremio setup
 
 ![](metadata/search-stremio-2.png)
 
-![](metadata/browse-stremio-1.png)
+![](metadata/search-stremio-1.png)
 
 ![](metadata/quick-navigation-1.png)
 
